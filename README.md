@@ -24,7 +24,7 @@ Includes CRUD operations and a stats endpoint with caching support.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/jobboard-api.git
+git clone https://github.com/Siddharthsinghkumar/jobboard-api.git
 cd jobboard-api
 ```
 
